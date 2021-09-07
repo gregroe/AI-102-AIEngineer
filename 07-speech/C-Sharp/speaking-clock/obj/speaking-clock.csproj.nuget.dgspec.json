@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gregroe\\AI-102-AIEngineer\\07-speech\\C-Sharp\\speaking-clock\\speaking-clock.csproj": {}
+    "c:\\Users\\gregroe\\AI-102-AIEngineer\\07-speech\\C-Sharp\\speaking-clock\\speaking-clock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gregroe\\AI-102-AIEngineer\\07-speech\\C-Sharp\\speaking-clock\\speaking-clock.csproj": {
+    "c:\\Users\\gregroe\\AI-102-AIEngineer\\07-speech\\C-Sharp\\speaking-clock\\speaking-clock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gregroe\\AI-102-AIEngineer\\07-speech\\C-Sharp\\speaking-clock\\speaking-clock.csproj",
+        "projectUniqueName": "c:\\Users\\gregroe\\AI-102-AIEngineer\\07-speech\\C-Sharp\\speaking-clock\\speaking-clock.csproj",
         "projectName": "speaking-clock",
-        "projectPath": "C:\\Users\\gregroe\\AI-102-AIEngineer\\07-speech\\C-Sharp\\speaking-clock\\speaking-clock.csproj",
+        "projectPath": "c:\\Users\\gregroe\\AI-102-AIEngineer\\07-speech\\C-Sharp\\speaking-clock\\speaking-clock.csproj",
         "packagesPath": "C:\\Users\\gregroe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gregroe\\AI-102-AIEngineer\\07-speech\\C-Sharp\\speaking-clock\\obj\\",
+        "outputPath": "c:\\Users\\gregroe\\AI-102-AIEngineer\\07-speech\\C-Sharp\\speaking-clock\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
