@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gregroe\\AI-102-AIEngineer\\10-luis-client\\C-Sharp\\clock-client\\clock_client.csproj": {}
+    "C:\\Users\\gregroe\\AI-102-AIEngineer\\10-luis-client\\C-Sharp\\clock-client\\clock_client.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gregroe\\AI-102-AIEngineer\\10-luis-client\\C-Sharp\\clock-client\\clock_client.csproj": {
+    "C:\\Users\\gregroe\\AI-102-AIEngineer\\10-luis-client\\C-Sharp\\clock-client\\clock_client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gregroe\\AI-102-AIEngineer\\10-luis-client\\C-Sharp\\clock-client\\clock_client.csproj",
+        "projectUniqueName": "C:\\Users\\gregroe\\AI-102-AIEngineer\\10-luis-client\\C-Sharp\\clock-client\\clock_client.csproj",
         "projectName": "clock_client",
-        "projectPath": "c:\\Users\\gregroe\\AI-102-AIEngineer\\10-luis-client\\C-Sharp\\clock-client\\clock_client.csproj",
+        "projectPath": "C:\\Users\\gregroe\\AI-102-AIEngineer\\10-luis-client\\C-Sharp\\clock-client\\clock_client.csproj",
         "packagesPath": "C:\\Users\\gregroe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gregroe\\AI-102-AIEngineer\\10-luis-client\\C-Sharp\\clock-client\\obj\\",
+        "outputPath": "C:\\Users\\gregroe\\AI-102-AIEngineer\\10-luis-client\\C-Sharp\\clock-client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.Azure.CognitiveServices.Language.LUIS.Authoring": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[3.1.3, )"
